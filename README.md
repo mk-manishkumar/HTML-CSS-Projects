@@ -28,7 +28,7 @@ This repository contains 15 HTML & CSS Projects which is completely responsive a
 | 07  |    [ Product Home Page](https://github.com/mk-manishkumar/Product-Home-Page)    | [Live Demo](https://project-7-mk.netlify.app/) |
 | 08  | [Web Design Landing Page](https://github.com/mk-manishkumar/Web-Design-Landing-Page) | [Live Demo](https://project-8-mk.netlify.app/) |
 | 09  | [Developer Landing Page](https://github.com/mk-manishkumar/Developer-Landing-Page) | [Live Demo](https://project-9-mk.netlify.app/) |
-| 10  | [Interior Design Landing Page](https://github.com/mk-manishkumar/Interior-Design-Landing-Page) | [Live Demo](https://project-10-mk.netlify.app/) |
+| 10  | [Interior Design Landing Page](https://github.com/mk-manishkumar/Interior-Design-Landing-Page) | [Live Demo](https://project-mk-10.netlify.app//) |
 | 11  | [Hosting Landing Page](https://github.com/mk-manishkumar/Hosting-Landing-Page) | [Live Demo](https://project-11-mk.netlify.app/) |
 | 12  | [Business Landing Page](https://github.com/mk-manishkumar/Business-Landing-Page) | [Live Demo](https://project-12-mk.netlify.app/) |
 | 13  | [SAAS Landing Page](https://github.com/mk-manishkumar/SAAS-Landing-Page) | [Live Demo](https://project-13-mk.netlify.app/) |
