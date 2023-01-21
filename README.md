@@ -5,9 +5,8 @@ This repository contains 15 HTML & CSS Projects which is completely responsive a
 
 ## 📌 Tech Stack
 
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://saurabh-pande.netlify.app/)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://saurabh-pande.netlify.app/)&nbsp;
-
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
 
