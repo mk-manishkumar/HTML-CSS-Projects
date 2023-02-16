@@ -1,7 +1,7 @@
 ## ⭐ HTML & CSS PROJECTS ⭐
 
 
-This repository contains 15 HTML & CSS Projects which is completely responsive and deployed on Netlify.
+This repository comprises a collection of 15 impeccably designed HTML and CSS projects, exhibiting complete responsiveness, and seamlessly deployed on the Netlify platform.
 
 ## 📌 Tech Stack
 
