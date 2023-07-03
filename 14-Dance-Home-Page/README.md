@@ -25,11 +25,6 @@ This project is a Dance Landing Webpage which is created by using HTML and CSS. 
 3 hours
 
 
-
-# Netlify Link
-
-[Project - 14](https://project-14-mk.netlify.app/)
-
 # Thumbnail
 
 ![thumbnail_pic](thumbnail.jpg)
