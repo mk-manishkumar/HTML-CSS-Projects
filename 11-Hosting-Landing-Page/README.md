@@ -25,11 +25,6 @@ This project is a Hosting Landing Webpage which is created by using HTML and CSS
 8 hours
 
 
-
-# Netlify Link
-
-[Project - 11](https://project-11-mk.netlify.app/)
-
 # Screenshots
 
 ![01](https://user-images.githubusercontent.com/102028645/184622707-99273ec6-8ab8-4060-a4bf-8b0ed0f5ec43.png)
