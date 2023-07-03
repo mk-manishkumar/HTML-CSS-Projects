@@ -25,11 +25,6 @@ This project is a Business Landing Webpage which is created by using HTML and CS
 8 hours
 
 
-
-# Netlify Link
-
-[Project - 12](https://project-12-mk.netlify.app/)
-
 # Thumbnail
 
 ![01](https://user-images.githubusercontent.com/102028645/185427602-ed719d1e-5491-4254-ace1-50fce96dbae4.jpg)
