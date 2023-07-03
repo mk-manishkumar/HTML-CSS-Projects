@@ -25,11 +25,6 @@ This project is a Product Designer Landing Webpage which is created by using HTM
 3 hours
 
 
-
-# Netlify Link
-
-[Project - 15](https://project-15-mk.netlify.app/)
-
 # Thumbnail
 
 ![01](https://user-images.githubusercontent.com/102028645/185676318-2d6b52ad-c346-4264-88a8-b7fa4b2f7d3b.jpg)
