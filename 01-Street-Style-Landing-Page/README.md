@@ -24,12 +24,6 @@ This project is a basic UI project which is created by using HTML and CSS.
 
 3 hours
 
-
-
-# Netlify Link
-
-[Project - 1](https://project-1-mk.netlify.app/)
-
 # Thumbnail
 
 ![thumbnail_pic](thumbnail.png)
