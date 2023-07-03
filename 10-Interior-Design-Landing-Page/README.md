@@ -25,11 +25,6 @@ This project is a Interior Design Webpage which is created by using HTML and CSS
 2.5 hours
 
 
-
-# Netlify Link
-
-[Project - 10](https://project-mk-10.netlify.app/)
-
 # Thumbnail
 
 ![thumbnail_pic](thumbnail.jpg)
