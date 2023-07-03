@@ -17,7 +17,7 @@ This repository comprises a collection of 15 impeccably designed HTML and CSS pr
 <br>
 
 
-## 🛑 Mini Projects 🛑
+## 🛑 Projects 🛑
 
 ### 📌 **Link: (don't forget to check readme also)**
 
