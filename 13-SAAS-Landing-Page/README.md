@@ -24,11 +24,6 @@ This project is a SAAS Landing Webpage which is created by using HTML and CSS. I
 2 hours
 
 
-
-# Netlify Link
-
-[Project - 13](https://project-13-mk.netlify.app/)
-
 # Screenshots
 
 ![01](https://user-images.githubusercontent.com/102028645/184911817-5eb5c954-4afb-4c67-a9cb-057de27eddda.jpg)
